@@ -1,0 +1,60 @@
+Notas clase:
+
+Contacto Ingrid: multimedia@frba.utn.edu.ar
+Teléfono: 1157632882
+
+
+(Programación, DOM, ES6, ES2020, ES2021)
+
+Promesas - fetch - map - filter - reduce - find - some
+
+<h1>Proyectos</h1> -> Repositorios (GITHUB / BITBUCKET)
+React / Angular / Vue -> UI (Componentes)
+
+-> Estructurar proyectos (React) (Micro frontends) (Micro servicios)
+
+React + Node -> SSR (Privacidad + SEO)
+NextJS -> SSR
+NUSTJS -> Hibrido 
+
+Typescript (POO) + React
+Jotai y Recoil -> Estados atómicos (realse producción)
+
+React +16 -> Funcional (Hooks) (Composicion vs herencia)
+
+Facebook F: (REACT) 
+Google F: (ANGULAR) B: Golang (Funcional) C
+
+Server send events (SSE)
+
+MERN -> Mongo Express React Node
+MEAN -> ANGULAR
+MEVN -> Vue
+
+Usuarios (Mongo)
+Productos y pagos ( SQL )
+
+Golang -> Autenticacion
+Productos -> Node
+
+npm vs yarn
+
+node package manager (gestor de paquetes)
+yarn -> facebook
+
+Descargar npm: 
+    windows: https://nodejs.org/es/ (node + npm)
+    Mac: brew install nodejs brew install npm
+    Linux: sudo apt-get install nodejs | sudo apt-get install npm
+
+create-react-app ( Programa que crea una aplicación básica de React )
+
+
+npm i create-react-app -g -> descargo la versión "6.7" create-react-app
+create-react-app [nombre-proyecto]
+
+create-react-app -> versión actual 7.0
+
+npx create-react-app [nombre-proyecto]
+
+¿SPA? -> Single page application !== "landing page || sab"
