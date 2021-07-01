@@ -1,0 +1,14 @@
+1. Custom Hooks (Funciones personalizada que implementa hooks nativos de react)
+2. useEffect
+
+npm i react-bootstrap axios
+
+
+Formas de memorizado:
+
+    React.memo() -> Memoriza componente
+    React.useCallback -> memoriza funciones (...,[dependencias])
+    React.useMemo -> memorizar objetos
+
+Cuando asignamos una memorización a una funcion, objeto, etc. En el re-render
+react pasa como referencia la referencia del objeto memorizado

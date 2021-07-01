@@ -27,7 +27,8 @@ const UserForm = ({ addUser }) => {
 
   const createUser = (e) => {
     e.preventDefault();
-    // validaciones
+    // validaciones (formik, useForm, yup)
+    // npm i shortid
     addUser({ ...user, id: shortid.generate() });
   };
 
