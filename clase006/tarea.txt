@@ -1,0 +1,9 @@
+1. 
+
+A modo de práctica se deja al alumno terminar el ToDo-List implementando 
+reducers y ejecutar escenarios de test dentro de la aplicación
+(mínimo un testing del 80% por componente escribiendo historias de usuario en un archivo MarkDown)
+
+2. Implementar Sass dentro del proyecto.
+
+3. Desplegar la aplicación en Netlify y compartirla al grupo.
