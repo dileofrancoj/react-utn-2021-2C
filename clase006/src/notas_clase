@@ -1,0 +1,34 @@
+useState -> Caso particular de useReducer (primitivos)
+1. useReducer -> Controlar estados de componentes
+3. Testing Unitario (TDD) Desarrollo basado / guiado por pruebas
+2. Validacion de formularios
+
+
+1. React Testing Library (Cambios de UI) (React, Angular, vue)
+2. Enzyme (Pruebas funcionales)
+
+E2E -> Cypress
+
+Pruebas de cargas -> Artillery
+
+* Error Boundary (Componentes Clases)
+
+Herramienta básica de test: jest (javascript / typescript)
+Documentación: https://jestjs.io/ (Javascript)
+
+React testing library (UI) -> https://testing-library.com/docs/react-testing-library/intro/
+
+
+Scaffolding:
+    src
+        components/
+            Component
+                __tests__
+                Component.js
+                index.js
+                styles.scss
+        reducers
+        views   
+        api
+    
+React Scripts -> JEST -> ISTAMBUL
